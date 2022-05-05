@@ -1,4 +1,8 @@
 TemperatureHall KEYWORD1
-Color KEYWORD1
 
 setColor KEYWORD2
+getTemperature KEYWORD2
+printTemperature KEYWORD2
+getHall KEYWORD2
+ledSensor KEYWORD2
+printHall KEYWORD2
